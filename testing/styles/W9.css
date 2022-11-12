@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+footer{
+    color: white;
+    background-color: #22347f;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+*{
+    border: 1px solid green;
+}
