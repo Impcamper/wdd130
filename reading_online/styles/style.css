@@ -137,6 +137,7 @@ body{
 }
 #link1, #link2{
     margin-top: 100px;
+    margin-bottom: 50px;
 }
 #kindle{
     grid-row: 1/4;
