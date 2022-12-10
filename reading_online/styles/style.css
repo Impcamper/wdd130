@@ -129,6 +129,11 @@ body{
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: center;
     text-align: center;
+    
+}
+#links-body a{
+    color: #253031;
+    font-size: 17px;
 }
 #links-body li{
     padding-bottom: 50px;
@@ -147,6 +152,7 @@ body{
 #link3, #link4, #link5, #link6{
     margin-top: 50px;
     margin-bottom: 50px;
+    
 }
 #link4, #link6{
     grid-column: 3/4;
